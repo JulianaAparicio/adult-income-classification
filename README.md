@@ -10,6 +10,15 @@ This project was completed for CIS 8693: Data Analytics, AI for Digital Innovati
 
 Compare multiple classification algorithms and identify the model with the strongest predictive performance for predicting income levels.
 
+## Dataset
+
+The Adult Income dataset contains demographic and employment-related information used to predict whether an individual's annual income exceeds $50,000.
+
+Target classes:
+
+- Income > $50K
+- Income ≤ $50K
+
 ## Models Evaluated
 
 - Logistic Regression
