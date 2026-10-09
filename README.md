@@ -6,7 +6,7 @@ Machine learning project that predicts whether an individual's annual income exc
 
 Team project completed for **CIS 8693: Data Analytics, AI for Digital Innovation** in the Master of Science in Information Systems (MSIS) program at Georgia State University (J. Mack Robinson College of Business).
 
-**Team:** Juliana Aparicio, [Teammate 2], [Teammate 3]
+**Team project** completed with 2 classmates.
 Analysis, modeling decisions, and interpretation of results were done jointly by the team.
 
 ## Objective
